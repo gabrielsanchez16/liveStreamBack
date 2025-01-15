@@ -106,6 +106,7 @@ package.json         # Dependencias y scripts
 
 1. Completar la documentación de todos los endpoints en Swagger.
 2. Agregar pruebas unitarias para validar la funcionalidad.
+3. Implementar SocketIo en lugar de usar la tecnica polling pero debido al corto tiempo de la prueba no se logro implementar 
 
 
 ---
@@ -126,7 +127,7 @@ Si deseas contribuir al proyecto, por favor sigue los siguientes pasos:
 
 ## Autor
 
-Este proyecto fue desarrollado siguiendo las mejores prácticas y estándares de la industria. Si tienes preguntas o sugerencias, no dudes en contactar al autor.
+Este proyecto fue desarrollado siguiendo las mejores prácticas y estándares conocidos por mi. Si tienes preguntas o sugerencias, no dudes en contactarme estare atento a cualquier feedback.
 
 
 
